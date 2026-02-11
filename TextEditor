@@ -1,0 +1,1 @@
+javascript:(function()%7Bif(document.designMode==='on')%7Bif(confirm(%22Are%20you%20sure%20You%20Want%20To%20Turn%20Off%20Edits?%22))%7Bdocument.designMode='off';document.body.style.backgroundColor='';%7D%7Delse%7Bif(confirm(%22Are%20You%20sure?%22))%7Bdocument.designMode='on';document.body.style.backgroundColor='%23fff9c4';%7D%7D%7D)();
